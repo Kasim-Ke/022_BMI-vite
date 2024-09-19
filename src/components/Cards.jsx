@@ -19,8 +19,8 @@ export const Cards = () => {
         </p>
       </div>
 
-      <div className="lg:w-[1060px] lg:h-[704px] lg:grid-cols-3 lg:grid-row-3 md:w-[686px] md:h-[768px]  w-[327px] h-[1095px] md:grid-cols-2 md:grid-rows-3 md:grid flex flex-col justify-between items-center  mx-auto  ">
-        {/*DESKTOP*/}
+      <div className="lg:w-[1060px] lg:h-[704px] lg:grid-cols-3 lg:grid-row-3 md:w-[686px] md:h-[768px]  w-[327px] h-[1095px] md:grid-cols-2 md:grid-rows-3 md:grid md:ml-2 flex flex-col justify-between items-center  mx-auto  ">
+        {/*GENDER*/}
         <div className="w-[327px] h-[200px] px-8 rounded-2xl shadow-md bg-white ">
           <div className="flex py-5">
             <img
