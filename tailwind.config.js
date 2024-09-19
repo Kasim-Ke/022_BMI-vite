@@ -4,14 +4,13 @@ export default {
   theme: {
     extend: {},
     screens: {
-      sm: "640px",
-      // => @media (min-width: 640px) { ... }
+      sm: "580px",
+      // => @media (min-width: ) { ... }
 
-      md: "748px",
-      // => @media (min-width: 768px) { ... }
-
-      lg: "1324px",
-      // => @media (min-width: 1024px) { ... }
+      md: "680px",
+      // => @media (min-width: ) { ... }}
+       lg: "1324px",
+      // => @media (min-width: ) { ... }
     },
   },
   plugins: [],
