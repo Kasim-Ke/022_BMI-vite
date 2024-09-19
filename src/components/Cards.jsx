@@ -7,7 +7,7 @@ import race from "../images/icon-race.svg";
 export const Cards = () => {
   return (
     <div className="lg:w-[1160px] lg:h-[704px] md:w-[686px] md:h-[903px] w-[375px] h-[1330px]   mx-auto mt-10 bg-gradient-to-r from-slate-100 to-sky-200 rounded-2xl ">
-      <div className="lg:w-[564px] lg:h-[185px] lg:mx-2 lg:justify-around lg:items-start lg:text-left md:w-[686px] md:h-[140px]  w-[327px] h-[210px] flex flex-col justify-between text-center mx-auto py-3 ">
+      <div className="lg:w-[564px] lg:h-[185px] lg:mx-auto lg:justify-around lg:items-center lg:text-center md:w-[686px] md:h-[140px]  w-[327px] h-[210px] flex flex-col justify-between text-center mx-auto py-3 ">
         <h1 className="lg:text-[48px] text-[32px] leading-[110%] font-semibold">
           Limitations of BMI
         </h1>
