@@ -24,7 +24,7 @@ export const Main = () => {
         );
       } else if (bmiValue >= 25 && bmiValue <= 29.9) {
         setMessage(
-          " Underweight is a medical condition that can increase the risk of health issues such as weakened immunity, osteoporosis, and nutrient deficiencies."
+          "Overweight is a medical condition that can increase the risk of health issues such as heart disease, type 2 diabetes, high blood pressure, and joint problems."
         );
       } else {
         setMessage(
